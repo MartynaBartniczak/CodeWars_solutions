@@ -2,41 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89de1fd9-b8dc-4337-933f-7161d294b438" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8 kata/ sum of negatives.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8 kata/Are arrow functions odd?.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8 kata/BASIC: Making Six Toast..js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8 kata/Beginner - Lost Without a Map.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8 kata/Convert a Boolean to a String.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8 kata/Convert a Number to a String!.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8 kata/Convert a String to a Number!.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8 kata/Convert number to reversed array of digits.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8 kata/Counting sheep....js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8 kata/DNA to RNA Conversion.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8 kata/Dollars and Cents.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8 kata/Double Char.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8 kata/ES6 string addition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8 kata/Exclamation marks series #2: Remove all exclamation marks from the end of sentence.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8 kata/Find Maximum and Minimum Values of a List.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8 kata/Fix the Bugs (Syntax) - My First Kata.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8 kata/For UFC Fans (Total Beginners): Conor McGregor vs George Saint Pierre.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8 kata/Formatting decimal places #0.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8 kata/Grasshopper - Summation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8 kata/Hex to Decimal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8 kata/Improving Math.round(x).js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8 kata/Invert values.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8 kata/Keep Hydrated!.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8 kata/Number of People in the Bus.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8 kata/Polish alphabet.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8 kata/Return Negative.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8 kata/Simple Fun #1: Seats in Theater.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8 kata/Square(n) Sum.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8 kata/Sum Arrays.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8 kata/To square(root) or not to square(root).js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8 kata/Volume of a Cuboid.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8 kata/an object into array.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8 kata/simple calculator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8 kata/Correct the mistakes of the character recognition software.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8 kata/Multiply.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/8 kata/My head is at the wrong end!.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -111,11 +80,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Hex to Decimal.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Hex to Decimal.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/8 kata/Hex to Decimal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="75">
+              <caret line="5" column="39" lean-forward="true" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Multiply.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8 kata/Multiply.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="My head is at the wrong end!.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8 kata/My head is at the wrong end!.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Correct the mistakes of the character recognition software.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/8 kata/Correct the mistakes of the character recognition software.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -136,9 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/8 kata/Get the mean of an array.js" />
-        <option value="$PROJECT_DIR$/8 kata/Filling an array (part 1).js" />
-        <option value="$PROJECT_DIR$/8 kata/Do I get a bonus?.js" />
         <option value="$PROJECT_DIR$/8 kata/Grasshopper - Basic Function Fixer.js" />
         <option value="$PROJECT_DIR$/8 kata/Opposite number.js" />
         <option value="$PROJECT_DIR$/8 kata/String repeat.js" />
@@ -187,6 +183,9 @@
         <option value="$PROJECT_DIR$/8 kata/Fix the Bugs (Syntax) - My First Kata.js" />
         <option value="$PROJECT_DIR$/8 kata/DNA to RNA Conversion.js" />
         <option value="$PROJECT_DIR$/8 kata/Hex to Decimal.js" />
+        <option value="$PROJECT_DIR$/8 kata/Multiply.js" />
+        <option value="$PROJECT_DIR$/8 kata/My head is at the wrong end!.js" />
+        <option value="$PROJECT_DIR$/8 kata/Correct the mistakes of the character recognition software.js" />
       </list>
     </option>
   </component>
@@ -351,12 +350,12 @@
       <option name="presentableId" value="Default" />
       <updated>1505283415469</updated>
       <workItem from="1505283417034" duration="1775000" />
-      <workItem from="1505286265304" duration="1544000" />
+      <workItem from="1505286265304" duration="1719000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3319000" />
+    <option name="totallyTimeSpent" value="3494000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="722" extended-state="6" />
@@ -391,30 +390,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/8 kata/Get the mean of an array.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-          <folding>
-            <element signature="n#!!doc;n#getAverage#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/8 kata/Filling an array (part 1).js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="3" column="67" lean-forward="false" selection-start-line="3" selection-start-column="67" selection-end-line="3" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/8 kata/Do I get a bonus?.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/8 kata/Grasshopper - Basic Function Fixer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -817,8 +792,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/8 kata/Hex to Decimal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="75">
+          <caret line="5" column="39" lean-forward="true" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8 kata/Multiply.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8 kata/My head is at the wrong end!.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8 kata/Correct the mistakes of the character recognition software.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
           <folding />
         </state>
       </provider>
