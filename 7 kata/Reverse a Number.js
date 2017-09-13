@@ -1,0 +1,1 @@
+const reverseNumber = n => n < 0 ? -parseInt(n.toString().split('').reverse().join('')) : parseInt(n.toString().split('').reverse().join(''))

@@ -1,0 +1,1 @@
+const first = (arr, n) => n == null ? [arr[0]] : arr.slice(0,n)

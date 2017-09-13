@@ -1,0 +1,1 @@
+weirdReverse=a=>a.sort(i=>1)
